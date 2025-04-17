@@ -1,3 +1,7 @@
 transformer
 torch
 tensorflow
+ipykernel
+streamlit
+pandas
+numpy
