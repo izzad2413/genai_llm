@@ -1,6 +1,7 @@
 transformer
 torch
 tensorflow
+keras
 ipykernel
 streamlit
 pandas
